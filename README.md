@@ -1,5 +1,6 @@
 # Build A Gradient Color Generator in HTML CSS & JavaScript
 
+![Build-A-Gradient-Color-Generator-in-HTML-CSS-JavaScript-Gradient-Generator-in-JavaScript](https://user-images.githubusercontent.com/46256884/233311470-b08d8d72-78a3-45a8-aef5-15951d860c47.png)
 
 As a web developer, you must have visited different sites to generate a gradient background color for your project. But have you ever felt the desire to create your own beautiful gradient generator from scratch?
 
